@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonEco2006
+- 👋 Hi, I’m @KonEco
 - 🌱 I’m currently learning how to program in python, html and css.
 - 📫 How to reach me aloautolinkopener@gmail.com
 
